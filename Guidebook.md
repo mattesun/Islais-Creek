@@ -1,5 +1,3 @@
-Islais-Creek
-============
 	
 ISLAIS CREEK
 DRAGON BOAT
@@ -23,17 +21,20 @@ Put in shit you want people to read HERE. Ie. coach’s note. Fuck their mind
 
 Welcome to Islais Creek Dragon Boat Training Centre!
 2014 Board of Directors
-President						Yohei Rosen		yohei.rosen@gmail.com
-Vice President					Y
-Secretary						Z
-Treasurer						A
-Equipment Manager Chair				B
-Head Site Leader					C
-Site Leaders						Tek Li			zytek0@gmail.com
-							E
-							F
-PDBA Affiliate					Diane McCabe	diane.mccabe@gmail.com
-Youth (U18) Affiliate				Brandon Yip
+President					Yohei Rosen			yohei.rosen@gmail.com
+Vice President				Y
+Secretary					Z
+Treasurer					A
+Operations/Equipment Manager		B
+Head Site Leader				Tek Li				zytek0@gmail.com
+Site Leaders					Tek Li				zytek0@gmail.com
+						Lili Hsu			lilihsu@gmail.com
+						Jason Cheng				
+KU Liaison					Lili Hsu			lilihsu@gmail.com
+PDBA Liaison				Diane McCabe (LARD)	diane.mccabe@gmail.com
+CDBA Liaison				Yen Chung			yen.chung@gmail.com
+Youth (U18) Liaison			Brandon Yip			yippo8@gmail.com
+
 ICDBTC Location
 10 Quint Street
 San Francisco, CA 94124
@@ -66,27 +67,23 @@ Boats
 
 
 
-
-
-
-
 THE FACILITY
 ISLAIS CREEK
 History of the Creek
 
 Location
+10 Quint Street
+San Francisco, CA 94124
+
+Via public transportation,
+Get to Underground muni station at Embarcadero
+Take KT Train to Marin stop
+**map*
 
 Partnership with KU
 
 Goals
 	Mentorship basis
-
-
-
-
-
-
-
 
 
 
@@ -339,6 +336,9 @@ All boats are to be launched from the beach. Paddlers are to adhere to the follo
 - Place the boat in nose first, then gently lower the rudder, and then finally rest down the ama
 - Enter the boat from the ama side only
 See video for boat handling example: http://youtu.be/u47LgO48Q3U?t=30s 
+
+Where to launch from on beach? Direction when current/wind?
+
 
 Closing Up Boat Cage
 Check to see that the boats are tied down and all other equipment is properly stored. Log the time that you leave the boathouse in the check in/out binder. Lock the boat cage and double check that the boat cage is locked before leaving.
