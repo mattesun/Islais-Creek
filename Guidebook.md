@@ -23,7 +23,7 @@ Welcome to Islais Creek Dragon Boat Training Centre!
 2014 Board of Directors
 President					Yohei Rosen			yohei.rosen@gmail.com
 Vice President				Y
-Secretary					Z
+Secretary					Mary Cheung			kerochan88@gmail.com
 Treasurer					A
 Operations/Equipment Manager		B
 Head Site Leader				Tek Li				zytek0@gmail.com
@@ -95,20 +95,20 @@ MEMBERSHIP REQUIREMENTS
 - Read and sign insurance waiver
 - Read and fill out membership application and pay $30 membership dues (valid from 2/11/14 to 2/11/15)
 - All forms are found on site in boat cage at ICDBTC and online at islaiscreek.net
-- Send in waiver, membership application, and $30 membership dues to _____
+- Send in waiver, membership application, and $30 membership dues. Waiver can be emailed to bobo3@astound.net ; application and dues to any site leader.
 - Read and abide by Islais Creek Dragon Boat Training Centre Membership Guidebook
-- Pass required club protocol, swimming, and huli recovery test Need to have these explicitly written out so to standardize testing/easier to conduct testing
+- Pass required club protocol, swimming, and huli recovery test.
 - Meet participation requirement for fundraising and volunteering 
 FUNDRAISING/VOLUNTEERING
-Each member is required to actively participate in at least one gardening session or bay clean up event per year for as long as they are a member. These efforts help to keep the creek and surrounding areas clean and useable to the community. This training facility was built for you!
+Each member is required to actively participate in at least two gardening sessions or bay clean up events per year for as long as they are a member. These efforts help to keep the creek and surrounding areas clean and useable to the community. This training facility was built for you!
 
 MEMBERSHIP GUIDELINE
 - No one shall use the ICDBTC facility or any club boats without having a waiver submitted
 - Respect and care for the club’s canoes, paddles, equipment, and facilities
 - Respect and assist fellow club members
-- Exercise courtesy on water (what’s the general rule of thumb for paddling in channel? Ie. CW/CCW direction, etc.)
+- Exercise courtesy on water. If multiple boats are on water, traffic flows counterclockwise
 - Follow safety and boat handling protocol
-- Use common sense when around strangers
+- Use common sense when around strangers, don't leave cage open
 - Have fun, paddle hard, and get fast!
 
 SCHEDULING
@@ -118,7 +118,7 @@ A weekly email will be sent out to inform all members of filled and available sl
 For safety reasons, all paddlers are required to record the time they launch and return in the binder on-site and also online.
 
 OFF SITE BOAT USE
-Use of boats off site for races is only permitted by written approval of the Board of Directors
+Use of boats off site for races or other events is only permitted by written approval of the Board of Directors
 The paddler using the boat off site is responsible for any damage that the boat incurs- you break it, you buy it.
 
 
@@ -141,7 +141,7 @@ ALWAYS
 5) Sign out when leaving and ensure that boat cage is locked
 
 EMERGENCY CONTACT INFORMATION
-Contact 1: President
+Contact 1: President - Yohei Rosen - 646-981-5959
 Contact 2: Principal Site Leader
 US Coast Guard: 415-399-3300
 
@@ -157,13 +157,10 @@ WHISTLE
 All boats shall carry a whistle in case of emergency. Club PFDs have whistles attached. Those wearing their own PFDs are required to carry a whistle with them while on the water.
 
 LEASH
-In the case that the boat does capsize, the boat will not drift out of reach. This is to ensure that you can get yourself and the boat safely back onto land.
+Absolutely necessary. Prevents loss of boat and possibility of drowning secondary to boat loss.
 
 DRY BAG WITH PHONE
-To contact Coast Guard in case of emergency or selfies.
-
-WATERPROOF WATCH
-A waterproof watch must be worn to keep track of when your paddling session starts and ends- it is also a great tool for interval training. This is to ensure that paddlers are given the time allotted for their scheduled water time. 
+Required to contact Coast Guard in case of emergency. Plus you can also take pictures and track workouts with it!
 
 SHOES/FLIP FLOPS
 Shoes must be worn on land to prevent any injuries while launching or carrying the boat.
@@ -171,6 +168,7 @@ Shoes must be worn on land to prevent any injuries while launching or carrying t
 HIGHLY RECOMMENDED
 - Wear bright colors or high-visibility clothing on the water (ie. neon colored hats, reflective jackets, etc.)
 - Water and a small snack to refuel
+- Waterproof watch to comply with boat reservation
 
 RESPONSIBLE BOATING
 - By coast guard law, no paddler should be on the water under the influence of illicit drugs, alcohol, or any other substance or pharmaceutical which may impair judgement
@@ -179,7 +177,7 @@ RESPONSIBLE BOATING
 - Paddlers should check weather ahead of time to gauge suitable conditions for paddling
 - Paddlers should be aware of shallow water, wooden and concrete extrusions around the creek, and all other possible obstacles and hazards
 - Paddlers should stay at least 50ft away from the bird sanctuary opposite of Pier 80
-	- Docking near the sanctuary is not allowed
+- Docking near the sanctuary is not allowed
 - No members shall venture beyond the end of Pier 80
 - Boaters should be aware of the rules and etiquette of the water as specified for boaters by the California Coast Guard (link to it?). A copy will be posted in the boat cage
 
@@ -192,7 +190,7 @@ Paddlers are not allowed to use the facility if they do not exhibit proficiency 
 If they fail the test, they are welcome to retest after noticeable improvement.
 
 PERMITTED TRAINING AREA
-- Stay a minimum of X ft away from shore and shallow water to prevent damage of boats
+- Stay a minimum of 20 ft (one full boat length) away from shore and shallow water to prevent damage of boats
 - Novice and youth paddlers may not venture beyond the 3rd Street Bridge unless accompanied by an experience guide
 - Boats may not be taken across the Bay, North of the Bay Bridge, or South of Candlestick Point unless written permission is given
 Yohei-make map of usable waterway superimposed on google maps with distinct landmarks (which are recognizable on the water) Bitches love maps
@@ -293,7 +291,7 @@ BOAT ANATOMY & NOMENCLATURE
 
 
 BOATS ON SITE
-OC-1							OC-1
+OC-1							OC-2
 
 
 
