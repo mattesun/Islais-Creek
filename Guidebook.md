@@ -23,7 +23,7 @@ Welcome to Islais Creek Dragon Boat Training Centre!
 2014 Board of Directors
 President					Yohei Rosen			yohei.rosen@gmail.com
 Vice President				Y
-Secretary					Z
+Secretary					Mary Cheung			kerochan88@gmail.com
 Treasurer					A
 Operations/Equipment Manager		B
 Head Site Leader				Tek Li				zytek0@gmail.com
@@ -31,9 +31,9 @@ Site Leaders					Tek Li				zytek0@gmail.com
 						Lili Hsu			lilihsu@gmail.com
 						Jason Cheng				
 KU Liaison					Lili Hsu			lilihsu@gmail.com
-PDBA Liaison				Diane McCabe (LARD)	diane.mccabe@gmail.com
-CDBA Liaison				Yen Chung			yen.chung@gmail.com
-Youth (U18) Liaison			Brandon Yip			yippo8@gmail.com
+PDBA Liaison					Diane McCabe (LARD)	diane.mccabe@gmail.com
+CDBA Liaison					Yen Chung			yen.chung@gmail.com
+Youth (U18) Liaison				Brandon Yip			yippo8@gmail.com
 
 ICDBTC Location
 10 Quint Street
