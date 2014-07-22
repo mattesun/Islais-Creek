@@ -7,7 +7,7 @@ Member’s Guidebook
 
 Our Mission
 
-We firmly believe that competitive team sports promote healthy personal development in youth and adults. These sports are also strong builders of community. Dragon boat racing is a team canoeing sport with large following in San Francisco. It is important as a competitive sport in its own right, and in that it is a major “gateway sport” to competition in other paddling or rowing disciplines. San Francisco has one of the largest populations of dragon boat paddlers in the Western Hemisphere. In other cities, training facilities have been built where modest populations of paddlers have produced internationally successful athletes and competitive programs which are highly involved in their communities. The Bay Area, despite its population of paddlers, lacks these things.
+San Francisco has one of the largest populations of dragon boat paddlers in the Western Hemisphere. In other cities, training facilities have been built where modest populations of paddlers have produced internationally successful athletes and competitive programs which are highly involved in their communities. The Bay Area, despite its population of paddlers, lacks these things.
 
 Our vision is to create a centre like many which exist in other North American cities:
 - We want to provide all Bay Area paddlers with the freedom to train at a highly competitive level
@@ -29,7 +29,7 @@ Operations/Equipment Manager		B
 Head Site Leader				Tek Li				zytek0@gmail.com
 Site Leaders					Tek Li				zytek0@gmail.com
 						Lili Hsu			lilihsu@gmail.com
-						Jason Cheng				
+						Jason Cheng			jason.h.cheng@gmail.com	
 KU Liaison					Lili Hsu			lilihsu@gmail.com
 PDBA Liaison				Diane McCabe (LARD)	diane.mccabe@gmail.com
 CDBA Liaison				Yen Chung			yen.chung@gmail.com
@@ -43,9 +43,9 @@ Contact Us
 Website: 		islaiscreek.net
 E-mail:		islaiscreekDBTC@gmail.com
 Facebook: 		facebook.com/islaiscreek
-Mailing Address:	PO Box___?
 
 This guidebook outlines the organizational structure and protocols of Islais Creek Dragon Boat Training Centre. The guidelines listed should be followed properly; however, if there is a discrepancy, exercise caution as well as common sense and clarify with the Board of Directors. Be safe, have fun, and paddle!
+
 CONTENT
 The Facility
 Membership
@@ -96,24 +96,25 @@ MEMBERSHIP REQUIREMENTS
 - Read and fill out membership application and pay $30 membership dues (valid from 2/11/14 to 2/11/15)
 - All forms are found on site in boat cage at ICDBTC and online at islaiscreek.net
 - Send in waiver, membership application, and $30 membership dues. Waiver can be emailed to bobo3@astound.net ; application and dues to any site leader.
-- Read and abide by Islais Creek Dragon Boat Training Centre Membership Guidebook
+- Read and abide by the Islais Creek Dragon Boat Training Centre Membership Guidebook
 - Pass required club protocol, swimming, and huli recovery test.
 - Meet participation requirement for fundraising and volunteering 
+
 FUNDRAISING/VOLUNTEERING
 Each member is required to actively participate in at least two gardening sessions or bay clean up events per year for as long as they are a member. These efforts help to keep the creek and surrounding areas clean and useable to the community. This training facility was built for you!
 
 MEMBERSHIP GUIDELINE
-- No one shall use the ICDBTC facility or any club boats without having a waiver submitted
+- No one shall use the ICDBTC facility or any club boats without a current waiver on file
 - Respect and care for the club’s canoes, paddles, equipment, and facilities
 - Respect and assist fellow club members
 - Exercise courtesy on water. If multiple boats are on water, traffic flows counterclockwise
-- Follow safety and boat handling protocol
-- Use common sense when around strangers, don't leave cage open
+- Follow safety and boat handling protocols
+- Use common sense when around strangers; don't leave cage open
 - Have fun, paddle hard, and get fast!
 
 SCHEDULING
 WATER SESSIONS AT ISLAIS
-Use of boats will be managed by an online sign-up system. Boat reservations will be on a first-come-first-serve basis. Any boat which is not claimed within 15 minutes of its reservation time is free for any member to use
+Use of boats will be managed by an online sign-up system. Boats are reserved be on a first-come-first-serve basis. Any boat which is not claimed within 15 minutes of its reservation time is free for any member to use
 A weekly email will be sent out to inform all members of filled and available slots for paddling.
 For safety reasons, all paddlers are required to record the time they launch and return in the binder on-site and also online.
 
@@ -158,6 +159,7 @@ All boats shall carry a whistle in case of emergency. Club PFDs have whistles at
 
 LEASH
 Absolutely necessary. Prevents loss of boat and possibility of drowning secondary to boat loss.
+Only one person on the OC2 should be leashed.
 
 DRY BAG WITH PHONE
 Required to contact Coast Guard in case of emergency. Plus you can also take pictures and track workouts with it!
@@ -165,39 +167,36 @@ Required to contact Coast Guard in case of emergency. Plus you can also take pic
 SHOES/FLIP FLOPS
 Shoes must be worn on land to prevent any injuries while launching or carrying the boat.
 
+SPARE PADDLE
+At least one member in each party should carry a spare paddle. Lash to boat with rubber straps.
+
 HIGHLY RECOMMENDED
 - Wear bright colors or high-visibility clothing on the water (ie. neon colored hats, reflective jackets, etc.)
-- Water and a small snack to refuel
-- Waterproof watch to comply with boat reservation
+- Bring water and a small snack to refuel
+- Bring a waterproof watch
 
 RESPONSIBLE BOATING
-- By coast guard law, no paddler should be on the water under the influence of illicit drugs, alcohol, or any other substance or pharmaceutical which may impair judgement
-- Paddlers should be aware of the limitations of their paddling ability and endurance, as well as additional limitations which might result from the weather (excessive heat, cold, wind, rain)
-- Paddlers should plan their training appropriately
-- Paddlers should check weather ahead of time to gauge suitable conditions for paddling
-- Paddlers should be aware of shallow water, wooden and concrete extrusions around the creek, and all other possible obstacles and hazards
-- Paddlers should stay at least 50ft away from the bird sanctuary opposite of Pier 80
-- Docking near the sanctuary is not allowed
+- Coast guard law forbids paddlers from being on the water under the influence of drugs, alcohol, or any other substance or pharmaceutical which could impair judgement
+- Be aware of the limitations of their paddling ability and endurance, as well as additional limitations which might result from the weather (excessive heat, cold, wind, rain)
+- Check weather ahead of time to gauge suitable conditions for paddling
+- Be aware of shallow water, wooden and concrete pilings around the creek, and all other obstacles and hazards
+- Stay at least 60 ft (3 boat lengths) away from the bird sanctuary opposite of Pier 80; docking near the sanctuary is not allowed
 - No members shall venture beyond the end of Pier 80
-- Boaters should be aware of the rules and etiquette of the water as specified for boaters by the California Coast Guard (link to it?). A copy will be posted in the boat cage
+- Be aware of the rules and etiquette of the water as specified for boaters by the California Coast Guard (link to it?). A copy will be posted in the boat cage
 
 WINTER/EXTREME CONDITIONS
-In the event of unusual cold, strong winds, heavy rain, or presence of thunder/lightening, a weather notice may be placed by email to all members on the email list. The Board of Directors reserves the right to cancel paddling sessions for your own safety.
+In the event of unusual cold, strong winds, heavy rain, or thunder/lightening, the Board of Directors reserves the right to cancel all paddling sessions by email notice
 
 SWIMMING AND SELF RESCUE
 Paddlers are not allowed to use the facility if they do not exhibit proficiency in the swimming/huli recovery test. This is essential to determine whether the boaters are capable of self-rescue in the event of capsize while wearing clothes.
 
-If they fail the test, they are welcome to retest after noticeable improvement.
-
 PERMITTED TRAINING AREA
 - Stay a minimum of 20 ft (one full boat length) away from shore and shallow water to prevent damage of boats
-- Novice and youth paddlers may not venture beyond the 3rd Street Bridge unless accompanied by an experience guide
-- Boats may not be taken across the Bay, North of the Bay Bridge, or South of Candlestick Point unless written permission is given
-Yohei-make map of usable waterway superimposed on google maps with distinct landmarks (which are recognizable on the water) Bitches love maps
+- Novice and youth paddlers may not venture beyond the 3rd Street Bridge unless accompanied by an experienced guide
+- Boats may not be taken beyond Pier 80 unless given an exemption by the board
 
 REPORTING ACCIDENTS & MISCONDUCT
-Any accident involving a paddler which results in injury, serious endangerment, or significant damage to or destruction of a boat must be reported to ICDBTC. All paddlers involved must be prepared to provide all accurate information necessary to be properly reported to Jacka-Liquori and the Coast Guard. Officers of IDBTC should be contacted by phone as well as by email.
-I didn’t include the thing about lights since we don’t want people out when it’s dark during the trial run/ first year?
+Any accident involving a paddler which results in injury, serious endangerment, or significant damage to or destruction of a boat must be reported to ICDBTC and Kayaks Unlimited. All paddlers involved must be prepared to provide all accurate information necessary to be properly reported to Jacka-Liquori and the Coast Guard. Officers of IDBTC should be contacted by phone as well as by email.
 
 
 OC HULI RECOVERY PROTOCOL
@@ -225,18 +224,17 @@ Before Flip							     After Flip
 
 						
 																					       After Huli Recovery (Original State)
-
-1) Go through mental checklist:
-A) Do you have paddle in hand?
-If not, try to retrieve paddle without losing connection to boat or have paddling buddy get it for you.
-B) How far off from shore are you?
-Do not recover boat in shallow water near rocks since boat may be damaged in the recovery process.
-2) Grab back iako with one hand and wrap free arm around hull of the boat
-3) Push the iako up and over the hull of the boat so that the ama rests on the other side
-Effectively, you are rotating the boat 180° with respect to axis of rotation
-4) Swim over to the left side of the boat with the ama afloat
-This is the side you will get back onto the boat since the ama will provide additional stability for reentry
-5) With left hand on back iako and right hand on hull of boat, push yourself up onto the seat of the boat
+														
+***Do not recover boat in shallow water near rocks since boat may be damaged in the recovery process.
+***Do not detach yourself from the ankle leash
+																					       
+0) If in the OC2, check to make sure your partner's okay.
+1) Recover paddle. If you cannot quickly retrieve it then do not attempt to. Have your buddy retrieve it.
+2) Orient boat nose into the waves.
+3) Swim around boat to side opposite the ama. DO NOT DETACH LEASH
+4) Reach over the boat, grab either iako, and pull the ama over to your side of the boat.
+5) Climb back on to boat. Momentarily dipping down into the water can make pulling yourself up easier.
+6) Leash will be wrapped around boat--detach, unwrap and reattach only when safe in calm water and leaning on the iako
 
 Videos of recovering from OC-1 huli:
 https://www.youtube.com/watch?v=_5ZOComzihk
